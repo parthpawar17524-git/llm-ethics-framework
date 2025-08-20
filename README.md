@@ -3,9 +3,9 @@ Ethics-by-Design for LLM Systems
 Team code: 22-A
 
 Members
-Tejas Pujari — Roll No 17 — +91 93215 84525
-Shravan Padhare — Roll No 41 — +91 93227 65756
-Parth Pawar — Roll No 47 — +91 91367 47913
+Tejas Pujari — Roll No 17
+Shravan Padhare — Roll No 41
+Parth Pawar — Roll No 47
 
 Tentative Title
 Ethics-by-Design for LLM Systems: Hallucinations, Instruction Tuning/RLHF, and Safety Evaluation
